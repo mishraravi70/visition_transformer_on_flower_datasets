@@ -68,3 +68,7 @@ Full training loop with accuracy/loss tracking
 
 Evaluation on validation and training sets
 
+## 🧠 Model Architecture
+![image](https://github.com/user-attachments/assets/00452f3f-fba3-49b2-8f3b-289df4a012a8)
+
+
