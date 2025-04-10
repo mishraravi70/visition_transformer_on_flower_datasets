@@ -72,9 +72,12 @@ Evaluation on validation and training sets
 ![image](https://github.com/user-attachments/assets/00452f3f-fba3-49b2-8f3b-289df4a012a8)\\
 
 ## 📊 Training Results
-Epoch 1, Loss: 32.9126, Train Acc: 60.94%, Val Acc: 60.94%
-Epoch 2, Loss: 26.0115, Train Acc: 68.39%, Val Acc: 68.39%
-Epoch 3, Loss: 24.6965, Train Acc: 67.14%, Val Acc: 67.14%
+Epoch 1, Loss: 32.9126, Train Acc: 60.94%, Val Acc: 60.94%.
+
+Epoch 2, Loss: 26.0115, Train Acc: 68.39%, Val Acc: 68.39%.
+
+Epoch 3, Loss: 24.6965, Train Acc: 67.14%, Val Acc: 67.14%.
+
 Epoch 4, Loss: 22.5034, Train Acc: 77.02%, Val Acc: 77.02%
 Epoch 5, Loss: 20.8880, Train Acc: 79.69%, Val Acc: 79.69%
 Epoch 6, Loss: 19.0360, Train Acc: 82.12%, Val Acc: 82.12%
