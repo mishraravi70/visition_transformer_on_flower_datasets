@@ -1,10 +1,15 @@
 # visition_transformer_on_flower_datasets
 ## Vision Transformers vs. CNN?
-Input Representation: While CNNs process raw pixel values directly, ViT divides the input image into patches and transforms them into tokens.
-Processing Mechanism: CNNs use convolutional and pooling layers to hierarchically capture features at different spatial scales. 
+.Input Representation: While CNNs process raw pixel values directly, ViT divides the input image into patches and transforms them into tokens.
+
+.Processing Mechanism: CNNs use convolutional and pooling layers to hierarchically capture features at different spatial scales. 
+
 ViT employs self-attention mechanisms to consider relationships among all patches.
+
 Global Context: ViT inherently captures global context through self-attention, which helps in recognizing relationships between distant patches. 
+
 CNNs rely on pooling layers for coarse global information.
+
 Data Efficiency: CNNs often require large amounts of labeled data for training, whereas ViT can benefit from pre-training on large datasets and then fine-tuning on specific tasks.
 
 
