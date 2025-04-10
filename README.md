@@ -51,3 +51,20 @@ https://medium.com/@hansahettiarachchi/unveiling-vision-transformers-revolutioni
 
 ## what is i am doing in my projects?
 
+## Vision Transformer (ViT) - PyTorch Implementation
+
+This repository contains a clean and modular implementation of the Vision Transformer (ViT) model using PyTorch. It includes model architecture, training loop, evaluation logic, and tracking of training metrics.
+
+## Features
+Patch-based embedding with position encodings
+
+Multi-layer Transformer Encoder
+
+MLP Classification head
+
+GPU support (automatically detects CUDA)
+
+Full training loop with accuracy/loss tracking
+
+Evaluation on validation and training sets
+
