@@ -133,6 +133,6 @@ Epoch 29, Loss: 3.6370, Train Acc: 99.22%, Val Acc: 99.22%
 Epoch 30, Loss: 2.6980, Train Acc: 98.04%, Val Acc: 98.04%
 
 ## Predictions
-[Kaggle Notebook Editor.pdf](https://github.com/user-attachments/files/19691971/Kaggle.Notebook.Editor.pdf)
+
 
 
