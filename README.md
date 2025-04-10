@@ -133,8 +133,19 @@ Epoch 29, Loss: 3.6370, Train Acc: 99.22%, Val Acc: 99.22%
 Epoch 30, Loss: 2.6980, Train Acc: 98.04%, Val Acc: 98.04%
 
 ## Predictions
+you can see the prediction image and confident of model
 https://github.com/mishraravi70/visition_transformer_on_flower_datasets/commit/de8c5653909fa693b52dfe779bbeb78409b3ae47 \\
 
-Screenshot from 2025-04-11 00-45-10.png
+## classification report 
+Classification Report on Test Set:
+
+              precision    recall  f1-score   support
+
+       daisy       0.84      0.77      0.80        77
+   dandelion       0.84      0.90      0.87       105
+
+    accuracy                           0.84       182
+   macro avg       0.84      0.83      0.83       182
+weighted avg       0.84      0.84      0.84       182
 
 
