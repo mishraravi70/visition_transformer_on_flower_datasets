@@ -49,3 +49,5 @@ Layer normalization helps stabilize and speed up training by normalizing the inp
 
 https://medium.com/@hansahettiarachchi/unveiling-vision-transformers-revolutionizing-computer-vision-beyond-convolution-c410110ef061 \\
 
+##- what is i am doing in my projects?
+
