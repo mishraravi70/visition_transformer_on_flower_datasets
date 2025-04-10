@@ -133,6 +133,8 @@ Epoch 29, Loss: 3.6370, Train Acc: 99.22%, Val Acc: 99.22%
 Epoch 30, Loss: 2.6980, Train Acc: 98.04%, Val Acc: 98.04%
 
 ## Predictions
-https://github.com/mishraravi70/visition_transformer_on_flower_datasets/commit/de8c5653909fa693b52dfe779bbeb78409b3ae47
+https://github.com/mishraravi70/visition_transformer_on_flower_datasets/commit/de8c5653909fa693b52dfe779bbeb78409b3ae47 \\
+
+Screenshot from 2025-04-11 00-45-10.png
 
 
